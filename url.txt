@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+URL Dataset=https://drive.google.com/drive/folders/1lnJgNKiVWslyfj_XVezpPKJL-gf1NpXQ?usp=sharing
+URL Model=https://drive.google.com/file/d/15kx9SNzJ0A3l9iU3Z2-9firS4aUaHXMU/view?usp=sharing
+=======
+URL Dataset=https://drive.google.com/drive/folders/1lnJgNKiVWslyfj_XVezpPKJL-gf1NpXQ?usp=sharing
+URL Model=https://drive.google.com/file/d/15kx9SNzJ0A3l9iU3Z2-9firS4aUaHXMU/view?usp=sharing
+>>>>>>> 73c409eb196f8dcdb619d4a3f46fbef3f0dcf375
+URL deployment=https://huggingface.co/spaces/kurniawanew/ApplePlanDiseaseDetection

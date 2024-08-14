@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+streamlit
+tensorflow
+pandas
+numpy
+matplotlib
+seaborn
+Pillow
+=======
+streamlit
+tensorflow
+pandas
+numpy
+matplotlib
+seaborn
+Pillow
+>>>>>>> 73c409eb196f8dcdb619d4a3f46fbef3f0dcf375
